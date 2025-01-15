@@ -1,4 +1,4 @@
-# Mutsuki-Battery-Charger
+# Mutsuki-Super-Wallpaper
 
 PREVIEW:
 ![Preview](assets/preview.png)
