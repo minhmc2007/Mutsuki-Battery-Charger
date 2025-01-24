@@ -2,7 +2,7 @@
 
 DOWNLOAD:https://www.mediafire.com/file/rzqvip13y465qaz/Mutsuki_Super_Wallpaper_Fixed.apk/file
 
-DOWNLOAD 4K VERSION:https://www.mediafire.com/file/25li76hk392lk6q/Mutsuki_Super_Wallpaper_4K.apk/file (unstable) upscale by AI
+DOWNLOAD 4K VERSION:https://www.mediafire.com/file/25li76hk392lk6q/Mutsuki_Super_Wallpaper_4K.apk/file (unstable) upscale by AI (bug: incorrect screen ratio)
 
 I am downloading this wallpaper on tiktok and use it for this project.
 
